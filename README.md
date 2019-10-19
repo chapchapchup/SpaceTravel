@@ -1,4 +1,4 @@
-# spaceTravel
+# spaceTravel (게임)
  
 캐릭터(우주선)가 장애물(행성)을 피하는 게임
 
